@@ -1,0 +1,8 @@
+pypdf
+pytesseract
+Pillow
+chromadb
+tiktoken
+watchdog
+fastapi
+uvicorn
